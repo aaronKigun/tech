@@ -1,0 +1,33 @@
+const SliderProducts = [
+{
+    img:'./img/bluejd.jpeg'
+},
+{
+    img:'./img/whiteaf.jpg'
+},
+{
+    img:'./img/updown.jpg'
+},
+{
+    img:'./img/iphones.jpg'
+},
+{
+    img:'./img/POCO.jpg'
+},
+{
+    img:'./img/iphone3.jpg'
+},
+{
+    img:'./img/iphone.jpg'
+},
+{
+    img:'./img/nikesb.jpg'
+},
+{
+    img:'./img/ipisolated.png'
+},
+{
+    img:'./img/double.png'
+},
+]
+export default SliderProducts

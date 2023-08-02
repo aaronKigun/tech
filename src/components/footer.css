@@ -1,0 +1,91 @@
+*{
+    font-family: cursive;
+    font-size: 13.9px;
+}
+.ooter{
+    padding: 30px 40px;
+    width: 100%;
+}
+.ooter .container{
+    font-size: large;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.ooter .container .c1 .r1{
+    columns: 4px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 39px;
+}
+.ooter .container .c1 .r1 .footer_contact{
+    margin-bottom: 5px;
+    font-size: larger;
+}
+.ooter .container .c1 .r1 .footer-details .fd1{
+margin-bottom: 8px;
+}
+.ooter .container .c1 .r1 .footer-details .fd2{
+    margin-bottom: 10px;
+}
+.ooter .container .c1 .r1 .footer-details .social_icons{
+    display: flex;
+    margin: 2px;
+}
+.ooter .container .c1 .r1 .footer-details .social_icons .face{
+    margin-left: 2px;
+
+}
+.ooter .container .c1 .r1 .footer-details .social_icons .gram{
+    margin-left: 5px;
+}
+.ooter .container .c1 .r1 .footer-details .social_icons .gram .face .tweet{
+    font-size: 4px;
+}
+.ooter .container .about{
+    max-width: 20%;
+    margin-bottom: 70px;
+}
+.ooter .container .about li{
+    list-style-type: none;
+    margin-top: 10px;
+}
+.ooter .container .pages{
+ margin-right: 50px;
+ margin-top: 39px;
+}
+.ooter .container .pages li{
+    list-style-type: none;
+    margin-top: 10px;
+}
+.ooter .container .installapp{
+    margin: 0;
+    padding: 0;
+    margin-top: 39px;
+}
+.ooter .container .installapp p{
+    margin-top: 5px;
+}
+.ooter .container .installapp .app_icon{
+    display: flex;
+
+}
+.ooter .container .installapp .app_icon p{
+    margin-left: 2px;
+    padding-bottom: 3px;
+}
+.ooter .container .installapp .google{
+    display: flex;
+    cursor: pointer;
+}
+.ooter .container .installapp .google p{
+    margin-top: 10px;
+}
+.ooter .under{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.ooter .under .p1{
+    margin-left: 30px;
+}
